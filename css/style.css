@@ -1,0 +1,26 @@
+
+
+/* Selector por ID */
+#enlaceDeContacto {
+    color: brown;
+}
+
+/* Selector por clase */
+.oscuro {
+    background: rgb(64, 64, 64);
+    color: white;
+}
+
+/* Selector por etiqueta */
+h1 {
+    background: #FF6317;
+    color: white;
+}
+
+.subrayado {
+    text-decoration: underline 2px #FF6317;
+}
+
+body {
+    background: #eee;
+}
